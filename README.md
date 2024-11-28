@@ -1,2 +1,0 @@
-# Elec_Tricks
-
