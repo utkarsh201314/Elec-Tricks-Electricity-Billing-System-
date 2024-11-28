@@ -97,7 +97,7 @@ public class Login extends JFrame implements ActionListener{
                     username.setText("");
                     password.setText("");
                 }
-//                
+                
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -105,7 +105,7 @@ public class Login extends JFrame implements ActionListener{
             setVisible(false);
         } else if (ae.getSource() == signup) {
             setVisible(false);
-//            
+          
             new Signup();
         }
     }
